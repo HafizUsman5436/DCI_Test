@@ -1,0 +1,22 @@
+{
+  "name": "dci_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HafizUsman5436/DCI_Test.git"
+  },
+  "author": "Hafiz Usman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HafizUsman5436/DCI_Test/issues"
+  },
+  "homepage": "https://github.com/HafizUsman5436/DCI_Test#readme",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
+}
