@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/HafizUsman5436/DCI_Test#readme",
   "dependencies": {
-    "cypress": "^9.6.0"
+    "cypress": "^9.6.0",
+    "dayjs": "^1.11.6",
+    "iframe": "^1.0.0"
+  },
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3"
   }
 }
